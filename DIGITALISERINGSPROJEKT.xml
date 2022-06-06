@@ -276,7 +276,7 @@
               </div>
                  <div type="recipe">
                 <list n="17" type="ingredients">
-                   <head facs="#000">6. Syltade krusbär</head>
+                   <head facs="#0012">6. Syltade krusbär</head>
                        <item>
                         1 kg. röda, halvmogna krusbär.
                        </item>
@@ -311,6 +311,7 @@
                     </ab>
                  </div>
                     <div n="4" type="receptsylt">
+                       <pb facs="#0015"/>
                        <head>
                           7. Syltade klarbär.
                        </head>
@@ -351,7 +352,7 @@
                              </item>
                              <item>6 dcl. vatten</item>
                           </list>
-                          <ab facs="s.20.jpg" type="instruktioner">
+                          <ab facs="#0013" type="instruktioner">
                              Frukten sköljes, torkas varsamt och 
                              naggas tätt med en silvergaffel, så att skinnet
                              ej går sönder i kokningen. Stjälkarna 
