@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Konserveringsbok</title>
+            <author>Ida Högstedt</author>
+            <principal>Maria Johansson</principal>
+            <meeting>Ett urval av recept och instruktioner ifrån Ida Högstedts Konserveringsbok. 
+            </meeting>
+    <respStmt>
+       <resp>Digitalisering och kodning</resp>
+       <name>Maria Johansson </name>
+    </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sjätte-Tionde tusendet</edition>
+         </editionStmt>
+         <extent></extent>
+         <publicationStmt>
+           <publisher>Åhlén &amp; Åkerlunds Förlag</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title>Konserveringsbok</title>
+                  <author>Ida Högstedt</author>
+                 <imprint>
+                    <pubPlace>Stockholm</pubPlace>
+                    <date when="1922">1922</date>
+                    <publisher>Åhlén &amp; Åkerlunds Förlag</publisher></imprint>
+                               </monogr> 
+              
+            </biblStruct>
+           </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+
+  <text> 
+    
+     <front>
+            
+        <docAuthor>Ida Högstedt</docAuthor>
+        <pb n="1" facs="titelsida2.tiff"/>
+           <head>Konserveringsbok</head>
+        <head n="2">190 recept</head>
+        <p>
+           FÖR SYLTNING, SAFT OCH KOMPOTTBEREDNING, 
+           INKOKNING, TORKNING M.M BÄR, FRUKT OCH GRÖNSAKER 
+           ÄVENSOM
+           KONSERVERING AV ANIMALISKA FÖDOÄMNEN
+           GENOM STERILISERING, INKOKNING
+           OCH SALTNING
+           JÄMTE DIVERSE INLÄGGNINGAR
+           SJÄTTE-TIONDE TUSENDET
+        </p>
+        <byline>
+           STOCKHOLM
+           ÅHLÉN &amp; ÅKERLUNDS FÖRLAGS A.-B
+        </byline>
+        
+        <byline>
+           <date>1922</date>
+           Stockholm
+           ÅHLÉN &amp; ÅKERLUNDS FÖRLAGS A.-B
+           </byline>
+        </front>
+     <body>
+        
+      
+
+        <div type="prose">
+           <pb n="2" facs="inledning1tiff.tiff"/>
+          <head> INLEDNING</head>
+   
+   
+   <p>Med konservering menas de olika metoder
+   som användas för att under en längre eller
+   ibland även kortare - tid bevara livsmedel så
+   att de bibehålla så mycket som möjligt av sina
+   ursprungliga egenskaper, eller med andra
+   ord: form, smak, färg och, framför allt,
+   näringsvärde.</p>
+   
+   <p>Konservering kan ske på skilda sätt, dessa
+   beroende dels på arten av det man önskar 
+   bevara: dels på den tid, de redskap och 
+   överhuvud taget på de resurser, som man i övrigt
+   har till sitt förfogande. I viss mån måste
+   också, trots annars gynnsamma 
+   omständigheter, tagas i betraktande hushållets storlek
+   och dess sammansättning av olika individer,
+   liksom ock den myckenhet, man har av en eller
+   annan konserveringsprodukt. Så är det t. ex.
+   en olämplig användning av den oftast rikt
+   förekommande rabarbern, att inkoka denna
+   på konserveringsglas, när den lika gärna och
+   med fullgott resultat kan läggas på buteljer.
+   Eller att under rika svampår göra sig </p> 
+   
+           <p n="" facs="inledning2tiff.tiff"> kostnad och besvär med att fylla dussintals med
+   dyrbara konserveringsburkar med de 
+   jämförelsevis enkla kantarellerna, då burkarna
+   kunde användas till förnämligare alster, och
+   kantarellerna kunde konserveras på ett billi-
+   gare och lättvindigare sätt.
+  Och består ett
+   hushåll av jämförelsevis få äldre personer
+   och ett större antal barn och »hembiträden>>,
+   torde i de flesta fall en klok husmoder få i
+   övervägande grad taga till såväl torkning
+   som saltn-ing för en del grönsaker, i stället
+   för att sterilisera dem på burkar. </p>
+      
+ <p>  Utom frukt, bär, svamp och grönsaker,
+   konserveras - genomsaltníng, rökning och
+   inkokning - fisk och kött eller produkter
+   framställda av dessa livsmedel. Och med
+   stor fördel inlägges ägg, vartill kommer att
+   i vissa större hushåll även smör och ost 
+   inköpes i större partier, när priserna å dessa
+   produkter äro fördelaktiga, och det således
+   lönar sig att å tjänligt sätt bevara dem, när
+   åter en väntade dyrperiod är inne. </p>
+           
+        <div type="titelsida">
+           <pb n="7" facs="konserveringbarfrukttiff.tiff"/>
+             <head> KONSERVERING AV BÄR OCH
+              FRUKTER</head>
+    
+    
+           <head facs="syltningallmänna1tiff.tiff">
+              SYLTNING 
+              ALLMÄNNA REGLER</head>
+           
+           <p>
+              Med ytterst få undantag skola bär och
+              frukter, ämnade för sylt, vara fullt friska,
+              intagna men ej övermogna samt dessutom
+              nyplockade. </p>
+             <p>  <hi rend="italic">Syltgrytan</hi> får icke vara förtennt, och ej
+              heller får den vara av järn, såvida i senare
+              fallet ej järnet är emaljerat, och emaljen är
+              oskadad. Nutidens bästa syltkittlar äro av
+              tjock aluminium eller ock av tälgsten. Dessa
+              senare hava dock den nackdelen att de äro
+              väl tunga. Förr i tiden användes gärna sylt-
+              kittlar av mässing, oförtennt koppar eller
+              malm, och syltet fick en mycket vacker färg
+              i dessa kokkärl. <hi rend="italic">Användes ännu någon 
+                 syltgryta av dessa tre sistnämnda slag, måste
+              grytan väl skuras med salt och ättika strax
+              innan den användes.</hi> Och lika nödvändigt
+              måste ihågkommas, att sylt ej får stå kvar i
+              grytan för avsvalning, utan måste det ge
+              nast efter kokningen slås upp.</p>
+             <p n="10" facs="syltningallmänna2tiff.tiff"> Krukor, glasburkar, och buteljer, i vilka
+              rengjorda och omsorgsfullt torkade. Skall
+              sylten upphällas varm, vilket i de flesta fall
+              är mest fördelaktigt, måste burkarna värmas
+              antingen i värmugn eller, om sådan saknas, i
+              svag stekugn, ställda på flerdubbelt papper.
+           </p>
+           <p>
+              Sockret böra vara av bästa slag, för finare
+              sylt, gelé och kompott, topp- eller strösocker.
+              För marmelad, insyltade gurkor, pumpa, s. k.
+              sallader, i vilka senare bland annat vissa
+              kryddor samt ättika ingår, kan krossocker
+              av god kvalité användas. - Vad mängden av
+              socker beträffar, kan antingen tagas lika vikt
+              socker mot rensade bär och då 4-5 dcl. vat-
+              ten till varje kilo socker, eller ock 1 3/4; - vid
+              vissa, mindre ömtåliga bär -- endast 1/2 kg.
+              socker mot I kilo bär samt 3 1/2-5 dcl. 
+              vatten. I senare fall måste I gr. salicylsyra tagas
+              mot varje kg. bär, detta för att förhindra
+              jäsning, vilken annars skulle uppstå. till följd
+              av den ringare sockermängden.</p>
+              <p n="11" facs="syltningallmänna3tiff.tiff"> Sockret lägges i syltkitteln, och det kalla
+              vattnet påhälles. När sockret är smält, sät-
+              tes kitteln över ej för stark eld, och lagen
+              bringas till kokning. När den kokat några
+              få minuter, skummas den med skumslev av
+              silver eller emaljerat bleck.
+              Skulle sked av  annat slag  användas, ﬁnge syltet en 
+                 gråaktig färgton. - Sockerlagen- får ytterligare
+              koka till dess den är simmig, d. v. s., då en
+              droppe, hälld på en tallrik, ej flyter ut. Lagen
+              är också' lagom kokt, då den trådar sig 
+              mellan fingrarna. </p>
+              <p>De väl rensade, och när så behöves, 
+                 varsamt sköljda bären läggas i den färdigkokta
+              sockerlagen, som därefter får ett hastigt
+              uppkok. Kitteln avlyftes och skakas, och
+              syltet skummas, varefter syltet åter får
+              koka upp; kitteln avlyftes återigen och 
+              skakas och syltet skummas. Detta 
+              förfaringssätt upprepas flera gånger, ända tills bären
+              äro klara och lagen simmig. Syltet skakas
+              sedan i syltkitteln - detta endast om denna
+              är av aluminium, täljsten eller emaljerat
+              gods  och efter en kort stund, medan syl-
+              tet ännu är varmt, upphälles det i de värmda, 
+              om så önskas förut konjakssköljda 
+              burkarna, vilka stå på flerdubbelt underlag av
+              tyg eller papper. 
+           </p>
+        </div>
+           <div type="recept">
+              <head n="13" facs="s.13.tiff">1. Syltade hallon
+                 (kokad med lag.)
+              </head>
+              <list type="ingredienser">
+                 <item>
+                    2 kg. hallon
+                 </item>
+                 <item>
+                    2 kg. socker
+                 </item>
+                 <item>
+                    8 dcl. vatten
+                 </item>
+              </list>
+              <ab facs="s.14.tiff" type="instruktioner">
+                 Nyplockade, torra hallon rensas. (Härtill
+                 användes med fördel en trubbig strumpsticka, 
+                 en fin trästicka eller ock en <hi rend="italic">obegagnad</hi>,
+                 rakböjd hårnål.) Sockret och vattnet 
+                 blandas i syltkitteln, och sedan sockret smält,
+                 får lagen koka till dess den trådar sig. Bären
+                 iläggas, och syltet får ett hastigt uppkok.
+                 Grytan avlyftes, skakas, och syltet skummas
+                 samt får sedan åter ett uppkok, varefter
+                 grytan ånyo lyftes upp, och skakning samt
+                 skumning vidtager. Detta upprepas 5-7
+                 gånger, eller tills bären synas klara och 
+                 begynna sjunka till botten, och lagen är 
+                 simmig. Syltet skakas omkr 10 min, varefter
+                 det upphälles i värmda, konjakssköljda 
+                 burkar, ställda på flerdubbelt underlag av 
+                 tidningspapper. En ytterligare säkerhet för
+                 att ej burkarna skola spricka sönder av det
+                 heta syltet ernås genom att under 
+                 påfyllningen ha en silversked placerad i burken.
+                 På samma sätt syltas: <hi rend="italic">jordgubbar, 
+                    krusbär, röda och svarta vinbär, hjortron, 
+                    björnbär, åkerbär. </hi>
+              </ab>
+           </div>
+              <div type="receptsylt">
+                
+                 <list facs="s.14.jpg" type="ingredienser">
+                    <head n="14">2. Syltade hallon med salicylsyra.
+                       (med kokad lag.)
+                    </head>
+                    <item>
+                       2 kg. hallon. 
+                    </item>
+                    <item>
+                       3 á 3 1/2 kg socker.
+                    </item>
+                    <item>
+                       2-3 ggr. salicylsyra
+                    </item>
+                 </list>
+                 <ab facs="s.15.jpg" type="instruktioner">
+                    Samma förfaringssätt som i ovanstående
+                    recept, utom att strax innan syltet sista 
+                    gången avlyftes för omskakning, salicylsyran,
+                    upplöst i helt litet av lagen, noggrant 
+                    omblandas i syltet.
+                    På samma sätt syltas alla de ovan 
+                    uppräknade bärsorterna.
+                    
+                 </ab>
+              </div>
+                 <div type="receptsylt">
+                <list n="17" type="ingredienser">
+                   <head facs="s.17.jpg">6. Syltade krusbär</head>
+                       <item>
+                        1 kg. röda, halvmogna krusbär.
+                       </item>
+                   <item>
+                      1 kg. toppsocker. 
+                   </item>
+                   <item>
+                      3 dcl. vatten. 
+                   </item>
+                   </list>
+                    <ab type="instruktioner">
+                       Krusbären snoppas, sköljas och få avrinna
+                       på duk. Av sockret och vattnet kokas en
+                       klar lag, som vid prov trådar sig mellan
+                       fingrarna. Lagen hälles het över de i en 
+                       kruka nedlagda bären, och krukan täckes över
+                       samt ställes på svalt ställe Io-14 tim. 
+                       Påföljande dag avhälles lagen, får koka upp
+                       och hälles åter het över bären. Tredje 
+                       gången (nästa dag) fâ bären koka med i lagen,
+                       varunder syltet noga skummas. När bären
+                       börja sjunka, avlyftes grytan, och syltet 
+                       skakas omkr. I0 min., varefter det upphälles i
+                       de förberedda burkarna.
+                       <hi rend="italic">Anm.</hi> Sockret kan minskas med 1/4 kg.,
+                       men då iblandas I gr. i litet lag upplöst 
+                       salicylsyra, strax innan syltet för sista gången
+                       avlyftes.
+                       På ovanstående sätt syltas med fördel:
+                       <hi rend="italic">jordgubbar, hjortron, bigarråer</hi> och <hi rend="italic">gula
+                          plommon.</hi>
+                    </ab>
+                 </div>
+                    <div n="4" type="receptsylt">
+                       <head>
+                          7. Syltade klarbär.
+                       </head>
+                       <list type="ingredienser">
+                          <item>
+                             1 kg. klarbär (vägda.
+                             utan stjälkar)</item>
+                          <item> 1 kg. socker</item>
+                          <item>3 dcl. vatten</item>
+                       </list>
+                       <ab type="instruktioner">
+                          Klarbären sköljas och urkärnas. En del
+                          av stenarna krossas och kärnorna 
+                          tillvaratagas. Sookret och vattnet kokas till en 
+                          simmig, klar lag. Klarbären iläggas, och syltet
+                          får sakta koka under det grytan- då och då
+                          avlyftes och omskakas och syltet skummas.
+                          När bären äro klara och lagen är simmig,
+                          íläggas kärnorna. Syltet skakas en stund 
+                          sedan krukan avlyfts, för att bären må fyllas
+                          med lag. Syltet upphälles i förberedda 
+                          burkar och behandlas lika som vid <hi rend="italic">Allmänna
+                          regler för syltning är nämnt.</hi>
+                          På samma sätt syltas <hi rend="italic">bígarråer, mörka
+                          körsbär</hi> och moreller.
+                       </ab>
+                    </div>
+                       <div type="receptsylt">
+                          <list n="20" type="ingredienser">
+                             <head>10. Syltade ränklor</head>
+                             <item>
+                                2 kg. halvmogna renklor <hi rend="italic">eller</hi> 1/2 kg. socker
+                                och
+                                2 kg. socker
+                             </item>
+                             <item>
+                                2 gr. salicylsyra
+                             </item>
+                             <item>6 dcl. vatten</item>
+                          </list>
+                          <ab facs="s.20.jpg" type="instruktioner">
+                             Frukten sköljes, torkas varsamt och 
+                             naggas tätt med en silvergaffel, så att skinnet
+                             ej går sönder i kokningen. Stjälkarna 
+                             avklippas till hälften. Vattnet och sockret 
+                             kokas till en klar och simmig lag, som vid prov
+                             trådar sig mellan fingrarna. Renklorna
+                             iläggas och få sakta koka till dess frukten
+                             synes klar och lagen är simmig. Under 
+                             kokningen avlyftes kastrullen 5-6 gånger och
+                             skakas, varvid syltet skummas. Sedan syl<pb/>
+                             tet är färdigkokt, skakas det i grytan tills
+                             det är nära avsvalnat. Syltet upphälles i
+                             konjakssköljda burk och överst strös ett lager
+                             strösocker varigenom förhindras att fruk-
+                             terna svartna.  </ab>
+                       </div>
+                          <div n="24" type="receptsylt">
+                             <list  facs="s.24.jpg" type="ingrediens">
+                                <head>16. Syltade päron med lingon.</head>
+                                <item>
+                                   4 1/2 kg. syltpäron (omkr. 8 dcl. vatten
+                                   7 lit.)
+                                </item>
+                                <item> 2 kg. krossocker</item>
+                                <item>3 lit. lingon</item>
+                                <item>1 bit kanel</item>
+                             </list>
+                             <ab type="instruktioner">
+                                Lingonen rensas, sköljas och få koka med
+                                vattne tíll dess de falla sönder, varefter de
+                                hällas upp i silduk, och saften får självrinna.
+                                --- Päronen skalas, och vid blomändan 
+                                skäres i varje päron ett litet kryss. Allt efter som
+                                päronen skalas, läggas de i friskt vatten.
+                                Saften från lingonen kokas med sockret och
+                                kanelen till en simmig lag; päronen iläggas
+                                och få sedan mycket sakta koka tills de äro
+                                mjuka och klara. De läggas då i en burk
+                                eller kruka och lagen -- som möjligen kan
+                                behöva koka ännu en stund för att bliva
+                                simmig -- hälles het över päronen.
+                             </ab>
+                             </div>
+           <div n="28-29" type="receptgelé">
+            
+                    <head>19. Rött vinbärsgéle.
+                    (Metod I.)</head> 
+                  
+              <list facs="s.28.jpg" type="ingredienser">
+                 <item>
+                    3 lit. repade röda vinbär.   
+                 </item>
+                 <item>
+                    Socker: samma vikt som saften.
+                 </item>
+                 <item>
+                    6 dcl. vatten
+                 </item>
+              </list>
+              <ab facs="s.29.jpg" type="instruktioner">
+                 Vinbären rensas fria från blad och skräp,
+                 sköljas och repas sedan de fått avrinna på
+                 duk. Bären sättas över elden med det kalla
+                 vattnet och få långsamt koka upp till dess
+                 de falla sönder. Man bör om möjligt 
+                 undvika att röra i bären, emedan saften sedan
+                 ej rinner så lätt ur dem. En i hett vatten 
+                 urvriden silduk uppspännes på lämplig ställ-
+                 ning - en upp- och nedvänd stol e. d. _ och
+                 bären uppslâs att självrinna. Bärmassan får
+                 ej pressas i hopp att därmed utvinna mera
+                 saft. Påföljande dag mätes den avrunna
+                 saften, och till varje mått saft tages samma
+                 mått rågat med strösocker. Blandningen 
+                 omröres väl, och syltgrytan ställes till en början
+                 blott vid sidan av elden. När sockret är
+                 smält, bringas geléet till kokning. Det får
+                 sedan koka 10-15 min, varunder skummet
+                 noga borttages. Geléet börjar nu provas
+                 genom att doppa ned en sked däri, och när
+                 dropparna blott sakta lämna skeden, samt
+                 hällda på en kall tallrik ej flyta; ut, är geléet
+                 färdigkokt. Geléet upphälles genast i små. _
+                 eller större värmda, förut konjakssköljda
+                 geléformar eller burkar. När geléet är kallt,
+                 belägges det med vax- eller pergamentpap-
+                 per, doppat i konjak, och därefter överbin-
+                 das burkarna med pergamentpapper.
+                 På samma sätt beredes gelé av vita 
+                 vinbär och svarta vinbär; vid den senare 
+                 bärsorten íakttages endast att taga något mera
+                 vatten, emedan svarta vinbär äro särdeles
+                 rika på geléämne.
+              </ab>
+           </div>
+           
+           <div n="27" type="Skötselråd">
+              <head facs="s.27">Gelé av bär och frukt</head>
+              <head>ALLMÄNNA REGLER</head>
+              <p>
+                 Ett lyckat gelé skall äga vacker färg, vara
+                 klart genomskinligt, fast, men ändå ej hårt
+                 eller segt. Gott och vackert gelé erhålles 
+                 såväl av mogen som omogen frukt, men aldrig
+                 av övermogen frukt eller bär stående på
+                 gränsen till jäsning, ty då finnes ej det s. k.
+                 pektinet kvar, utan vilket ämne ej fruktsaften 
+                 geléar sig. Av stor vikt är också att ge-
+                 léet från början till slut beredes på rätt sätt.
+                 Bären eller frukten skall långsamt koka i en
+                 jämförelsevis ringa vattenmängd, och saften
+                 skall därefter självrinna över natten, varefter fruktsaften väges (mätes) och samma
+                 vikt (mått) tages av saft och finaste strö
+                 socker. Efter det sockret smält i saften, får
+                 geléet koka ganska hastigt och under 
+                 skumning tills det håller geléprovet. Detta prov
+                 består däruti att en droppe, hälld på en <hi rend="italic">kall</hi>
+                 tallrik, ej flyter ut, utan står rund och hög.
+                 <hi rend="italic">Vidare se rött vinbärsgelé 1!</hi>
+              </p>
+           </div>
+           <div n="" type="receptsylt">
+              <head>18. Syltade apelsinskal.</head>
+              <list type="ingredienser">
+                 <item>
+                    1 kg. apelsinskal (kokta)
+                 </item>
+                 <item>
+                    1 kg. socker
+                 </item>
+                 <item>
+                    1/2 lit.
+                    vatten
+                 </item>
+                
+              </list>
+              <ab type="instruktioner">
+                 Apelsinskalen, som böra vara tjocka och
+                 nätt avtagna från frukten, få ligga i vatten
+                 under 3 dagar, varunder vattnet bytes varje
+                 dag. De läggas sedan i en syltgryta med
+                 kallt vatten, och få sakta koka tills de äro
+                 mjuka - provas genom att insticka en 
+                 vispkvist - då de få avrinna på duk. Skalen
+                 vägas nu, varefter lika vikt socker samt vat-
+                 ten kokas till en simmig lag, vilken under
+                 kokningen väl skummas. Skalen nedläggas
+                 i en burk, och när lagen något avsvalnat,
+                 hälles den över dem, varefter burken väl
+                 övertäckes. Efter 3 dagar, då lagen blivit
+                 tunn, frånsilas den och kokas tills den är 
+                 simmig, och slås åter över skalen. Detta 
+                 upprepas ännu 3-5 gånger, varefter skalen 
+                 bruka vara genomträngda med lag. Burken
+                 överknytes med pergamentspapper och 
+                 förvaras på sval, torr plats.
+              </ab>
+              
+           </div>
+                          
+                             
+                             
+                         
+           
+        </div>
+     </body>
+  </text>
+
+   
+           
+    </TEI>            
+  
+
