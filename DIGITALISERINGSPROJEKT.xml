@@ -38,13 +38,26 @@
            </sourceDesc>
       </fileDesc>
   </teiHeader>
-
+ <facsimile>
+    <surface>
+       <graphic url="#0000"/>
+    </surface>
+    <surface>
+       <graphic url="Bilder%20png/%230001.png"/>    
+    </surface>
+    <surface>
+       <graphic url="Bilder%20png/%230002.png"></graphic>
+    </surface>
+    <surface>
+       <graphic url="Bilder%20png/%230003.png"></graphic>
+    </surface>
+ </facsimile>
   <text> 
     
      <front>
             
         <docAuthor>Ida Högstedt</docAuthor>
-        <pb n="1" facs="A#0001"/>
+        <pb n="1" facs="0001"/>
            <head>Konserveringsbok</head>
         <head n="2">190 recept</head>
         <p>
@@ -153,7 +166,7 @@
               måste ihågkommas, att sylt ej får stå kvar i
               grytan för avsvalning, utan måste det ge
               nast efter kokningen slås upp.</p>
-             <p n="10" facs="syltningallmänna2tiff.tiff"> Krukor, glasburkar, och buteljer, i vilka
+             <p n="12" facs="#0006"> Krukor, glasburkar, och buteljer, i vilka
               rengjorda och omsorgsfullt torkade. Skall
               sylten upphällas varm, vilket i de flesta fall
               är mest fördelaktigt, måste burkarna värmas
@@ -176,7 +189,7 @@
               mot varje kg. bär, detta för att förhindra
               jäsning, vilken annars skulle uppstå. till följd
               av den ringare sockermängden.</p>
-              <p n="11" facs="#0005"> Sockret lägges i syltkitteln, och det kalla
+              <p n="11" facs="#0007"> Sockret lägges i syltkitteln, och det kalla
               vattnet påhälles. När sockret är smält, sät-
               tes kitteln över ej för stark eld, och lagen
               bringas till kokning. När den kokat några
