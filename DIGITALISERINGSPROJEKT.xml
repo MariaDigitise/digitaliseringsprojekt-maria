@@ -44,7 +44,7 @@
      <front>
             
         <docAuthor>Ida Högstedt</docAuthor>
-        <pb n="1" facs="titelsida2.tiff"/>
+        <pb n="1" facs="A#0001"/>
            <head>Konserveringsbok</head>
         <head n="2">190 recept</head>
         <p>
@@ -72,8 +72,8 @@
         
       
 
-        <div type="prose">
-           <pb n="2" facs="inledning1tiff.tiff"/>
+        <div type="chapter">
+           <pb n="5" facs="#0002"/>
           <head> INLEDNING</head>
    
    
@@ -101,7 +101,7 @@
    med fullgott resultat kan läggas på buteljer.
    Eller att under rika svampår göra sig </p> 
    
-           <p n="" facs="inledning2tiff.tiff"> kostnad och besvär med att fylla dussintals med
+           <p n="6" facs="#0003"> kostnad och besvär med att fylla dussintals med
    dyrbara konserveringsburkar med de 
    jämförelsevis enkla kantarellerna, då burkarna
    kunde användas till förnämligare alster, och
@@ -127,12 +127,8 @@
    åter en väntade dyrperiod är inne. </p>
            
         <div type="titelsida">
-           <pb n="7" facs="konserveringbarfrukttiff.tiff"/>
-             <head> KONSERVERING AV BÄR OCH
-              FRUKTER</head>
-    
-    
-           <head facs="syltningallmänna1tiff.tiff">
+           <pb n="7" facs="#0004"/>
+           <head >
               SYLTNING 
               ALLMÄNNA REGLER</head>
            
@@ -180,7 +176,7 @@
               mot varje kg. bär, detta för att förhindra
               jäsning, vilken annars skulle uppstå. till följd
               av den ringare sockermängden.</p>
-              <p n="11" facs="syltningallmänna3tiff.tiff"> Sockret lägges i syltkitteln, och det kalla
+              <p n="11" facs="#0005"> Sockret lägges i syltkitteln, och det kalla
               vattnet påhälles. När sockret är smält, sät-
               tes kitteln över ej för stark eld, och lagen
               bringas till kokning. När den kokat några
@@ -210,11 +206,11 @@
               tyg eller papper. 
            </p>
         </div>
-           <div type="recept">
-              <head n="13" facs="s.13.tiff">1. Syltade hallon
+           <div type="recipe">
+              <head n="13" facs="#0006">1. Syltade hallon
                  (kokad med lag.)
               </head>
-              <list type="ingredienser">
+              <list type="ingredients">
                  <item>
                     2 kg. hallon
                  </item>
@@ -225,7 +221,7 @@
                     8 dcl. vatten
                  </item>
               </list>
-              <ab facs="s.14.tiff" type="instruktioner">
+              <ab facs="#0007" type="instuctions">
                  Nyplockade, torra hallon rensas. (Härtill
                  användes med fördel en trubbig strumpsticka, 
                  en fin trästicka eller ock en <hi rend="italic">obegagnad</hi>,
@@ -267,7 +263,7 @@
                        2-3 ggr. salicylsyra
                     </item>
                  </list>
-                 <ab facs="s.15.jpg" type="instruktioner">
+                 <ab facs="s.15.jpg" type="instructions">
                     Samma förfaringssätt som i ovanstående
                     recept, utom att strax innan syltet sista 
                     gången avlyftes för omskakning, salicylsyran,
@@ -278,9 +274,9 @@
                     
                  </ab>
               </div>
-                 <div type="receptsylt">
-                <list n="17" type="ingredienser">
-                   <head facs="s.17.jpg">6. Syltade krusbär</head>
+                 <div type="recipe">
+                <list n="17" type="ingredients">
+                   <head facs="#000">6. Syltade krusbär</head>
                        <item>
                         1 kg. röda, halvmogna krusbär.
                        </item>
