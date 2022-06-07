@@ -40,7 +40,7 @@
   </teiHeader>
  <facsimile>
     <surface>
-       <graphic url="#0000"/>
+       <graphic url="Bilder%20png/%230000.png"></graphic>
     </surface>
     <surface>
        <graphic url="Bilder%20png/%230001.png"/>    
@@ -51,13 +51,16 @@
     <surface>
        <graphic url="Bilder%20png/%230003.png"></graphic>
     </surface>
+    <surface>
+       <graphic url="Bilder%20png/%230004.png"></graphic>
+    </surface>
  </facsimile>
   <text> 
     
      <front>
             
         <docAuthor>Ida Högstedt</docAuthor>
-        <pb n="1" facs="0001"/>
+        <pb n="1" facs="#0001"/>
            <head>Konserveringsbok</head>
         <head n="2">190 recept</head>
         <p>
