@@ -39,21 +39,16 @@
       </fileDesc>
   </teiHeader>
  <facsimile>
-    <surface>
-       <graphic url="Bilder%20png/%230000.png"></graphic>
-    </surface>
-    <surface>
-       <graphic url="Bilder%20png/%230001.png"/>    
-    </surface>
-    <surface>
-       <graphic url="Bilder%20png/%230002.png"></graphic>
-    </surface>
-    <surface>
-       <graphic url="Bilder%20png/%230003.png"></graphic>
-    </surface>
-    <surface>
-       <graphic url="Bilder%20png/%230004.png"></graphic>
-    </surface>
+    
+       <graphic url="Bilder%20bearbetad/%230000.jpg"></graphic>
+    
+       <graphic url="Bilder%20bearbetad/%230001.jpg"></graphic>
+       <graphic url="Bilder%20bearbetad/%230002.jpg"></graphic>
+    <graphic url="Bilder%20bearbetad/%230003.jpg"></graphic>
+    <graphic url="Bilder%20bearbetad/%230005.jpg"></graphic>
+    <graphic url="Bilder%20bearbetad/%230006.jpg"></graphic>
+    <graphic url="Bilder%20bearbetad/%230007.jpg"/>
+    <graphic url="Bilder%20bearbetad/%230008.jpg"/>
  </facsimile>
   <text> 
     
