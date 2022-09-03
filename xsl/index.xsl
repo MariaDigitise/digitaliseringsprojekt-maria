@@ -7,12 +7,12 @@
     <!-- transform the root element (TEI) into an HTML template -->
     <xsl:template match="tei:TEI">
         <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text><xsl:text>&#xa;</xsl:text>
-        <html lang="en" xml:lang="en">
+        <html lang="swe" xml:lang="swe">
             <head>
                 <title>
                     <!-- add the title from the metadata. This is what will be shown
                     on your browsers tab-->
-                    frankensTEIn: Home
+                   
                 </title>
                 <!-- load bootstrap css (requires internet!) so you can use their pre-defined css classes to style your html -->
                 <link rel="stylesheet"
@@ -26,7 +26,7 @@
             <body>
                 <header>
                     <h1>
-                        <xsl:apply-templates select="//tei:TEI//tei:title"/>
+                        <xsl:apply-templates select="//tei:TEI//tei:chapter"/>
                     </h1>
                 </header>
                 <nav id="sitenav">
@@ -35,7 +35,7 @@
                     <a href="reading.html">Reading Text</a> |
                     <a href="toplayer.html">Top Layer</a> |
                 </nav>
-                <main id="manuscript">
+                <main id="instruktioner">
                     <!-- bootstrap "container" class makes the columns look pretty -->
                     <div class="container">
                     <!-- define a row layout with bootstrap's css classes (two columns) -->
@@ -91,7 +91,7 @@
                   			</a>
                   		</div>
                   		<div class="copyright_text">
-                         2022 Wout Dillen.
+                      
                       </div>
                     </div>
                 </div>
