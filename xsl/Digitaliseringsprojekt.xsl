@@ -11,29 +11,31 @@
     />
     
   <xsl:template match="/">
-      <html>
-          <head>
-            <author>
-                <xsl:value-of select="docAuthor"/>
-            </author>
-              <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-              <style type="text/css">
-                  body { font-family : Helvetica ;
-                  
-                  }
-                  
-              </style>
-          </head>
-          
-          <body>
-              <h1>
-                  Konserveringsbok
-              </h1>
-              <div>
-                  <xsl:apply-templates select="//tei:text"/>
-              </div>
-          </body>
-      </html>
+<html>
+    
+    <head>
+        <title>Ida Högstedts Konserveringsbok</title>
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <style type="text/css">
+            body { margin : 0% }
+            .dateline {margin-left : -3em}
+            text { font-family : Helvetica
+            }
+            
+            
+        </style>
+    </head>
+    <body> 
+        <div>
+           
+            
+       
+            
+        </div>
+    </body>
+</html>
+      
       
   </xsl:template>
     
