@@ -10,30 +10,48 @@
         doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
     />
     
+    
   <xsl:template match="/">
 <html>
     
     <head>
-        <title>Ida Högstedts Konserveringsbok</title>
-        
+        <h1>Konserveringsbok</h1>
+       
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <style type="text/css">
-            body { margin : 0% }
-            .dateline {margin-left : -3em}
-            text { font-family : Helvetica
-            }
+            body {background-color: "powder-blue";
+            font-family : "Helvetica";}
+            div {border-bottom-color: coral;}
+           <link> href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css</link> 
+          
+            
             
             
         </style>
     </head>
-    <body> 
-        <div>
-           
-            
+    
+    <nav id="sitenav">
+        <a href="index.html">Faksimilier</a> |
+        <a href="diplomatic.html">Transkribering</a> |
+        <a href="reading.html">Hem</a> |
+        <a href="toplayer.html"></a> |
+    </nav>
+<body>
+    
+
+    <h2>Ida Högstedts Konserveringsbok</h2>
+    
+    <p>
+        
+    </p>
+    
+    
+     
+        
+    <footer>
        
-            
-        </div>
-    </body>
+    </footer>
+</body>
 </html>
       
       
