@@ -21,16 +21,16 @@
         <style type="text/css">
             
             body {
-            padding: 1vw;
+            padding: 0vw;
             font-family: 'Palatino','Palatino Linotype','Palatino LT STD','Book Antiqua','Georgia,serif';
-            line-height: 1.25;
+            line-height: 1.25w;
             font-size: 1vw;
             width: 100%;
             }
             
             h1, h2, h3, nav, footer {
-            text-align: center;
-            font-family: '
+            text-align: right;
+            font-family: 'Helvetica'
             }
             
             nav {
@@ -85,18 +85,26 @@
 
 <body>
     
-<nav>
-    <a/> href="bilderbearbetad."/>bilder
+<nav id="sitenav">
+    <a href="folder/bilderbearbetad.">bilder </a>
+    <a>Transkriptioner</a>
 </nav>
     
     
     
     
-    <p>
-        <h1>Ida Högestedt</h1>
+   
+        <h1>Ida Högstedts Konserveringsbok</h1>
         
-        Ida Högstedt var en svensk kokboksförfattare
-    </p>
+       <p>  Den här sidan är ett projekt för kursen Digitalisering av kulturarvsmaterial. Materialet som digitaliserats är 
+        Ida Högstedts Konserveringsbok. Boken gavs ut 1921 och innehåller 120 olika recept för diverse konserverade varor. 
+        Recepten täcker en rad olika konserveringsrecept, såsom sylt, geléer, fisk och kött.  </p>
+    
+    
+       <p> Förutom recepten så finns det skötsel och instruktionsbeskrivningar inkluderade i boken.
+         Recepten som finns på sidan har valts ut i ett urval, där huvudfokuset har legat på de första kapitlen i boken, 
+         som är recept på olika fruktgeleér, kompotter och sylt</p>
+   
     
     
      
