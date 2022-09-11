@@ -19,10 +19,62 @@
        
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <style type="text/css">
-            body {background-color: "powder-blue";
-            font-family : "Helvetica";}
-            div {border-bottom-color: coral;}
-           <link> href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css</link> 
+            
+            body {
+            padding: 1vw;
+            font-family: 'Palatino','Palatino Linotype','Palatino LT STD','Book Antiqua','Georgia,serif';
+            line-height: 1.25;
+            font-size: 1vw;
+            width: 100%;
+            }
+            
+            h1, h2, h3, nav, footer {
+            text-align: center;
+            font-family: '
+            }
+            
+            nav {
+            margin-bottom: 1vw;
+            border-top: 1px solid black;
+            border-bottom: 1px solid black;
+            padding: 1vw;
+            }
+            
+            h2 {
+            padding: 1vw;
+            }
+            
+            h3 {
+            font-weight: bold;
+            padding: 1vw;
+            
+            }
+            
+            #details {
+            padding: 2vw;
+            margin: 1vw;
+            text-align: center;    
+            }
+            
+            footer {
+            border-top: 1px solid black;
+            padding-top: 1vw;
+            margin-top: 1vw;
+            }
+            
+            .copyright {
+            width: 50%;
+            margin: auto;
+            }
+            
+            .copyright_logos, .copyright_text {
+            display: inline;
+            }
+            
+            .copyright_logo {
+            width: 1vw;
+            margin:.15vw;
+            }
           
             
             
@@ -30,26 +82,27 @@
         </style>
     </head>
     
-    <nav id="sitenav">
-        <a href="index.html">Faksimilier</a> |
-        <a href="diplomatic.html">Transkribering</a> |
-        <a href="reading.html">Hem</a> |
-        <a href="toplayer.html"></a> |
-    </nav>
+
 <body>
     
-
-    <h2>Ida Högstedts Konserveringsbok</h2>
+<nav>
+    <a/> href="bilderbearbetad."/>bilder
+</nav>
+    
+    
+    
     
     <p>
+        <h1>Ida Högestedt</h1>
         
+        Ida Högstedt var en svensk kokboksförfattare
     </p>
     
     
      
         
     <footer>
-       
+        
     </footer>
 </body>
 </html>
